@@ -1,6 +1,4 @@
-// 'use strict';
-a = 5;
-console.log(a);
+'use strict';
 
 var leftBorferWidth = 1;
 let second = 2;
