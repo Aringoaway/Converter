@@ -48,3 +48,9 @@ let isChecked = true,
     isClosed = false;
 
 console.log(isChecked && !isClosed);
+
+function showFirstMessage(text) {
+    alert(text);
+}
+
+showFirstMessage("Hello worl");
